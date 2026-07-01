@@ -1,9 +1,9 @@
 <!-- Language switcher -->
 <div align="right">
-  <img src="https://img.shields.io/badge/Español-🇲🇽-green?style=flat-square" alt="Español" />&nbsp;
-  <a href="./README_EN.md">
-    <img src="https://img.shields.io/badge/English-🇺🇸-blue?style=flat-square" alt="English" />
-  </a>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Español-🇲🇽-red?style=flat-square" alt="Español" />
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/English-🇺🇸-green?style=flat-square" alt="English" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -17,7 +17,7 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=550&lines=Ingenier%C3%ADa+en+Computaci%C3%B3n+%7C+UNISTMO;Python+%C2%B7+PHP+%C2%B7+Laravel+%C2%B7+C+%C2%B7+Dart;Docker+%C2%B7+AWS+%C2%B7+GCP+%C2%B7+Linux;Desarrollo+%7C+Infraestructura+%7C+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=550&lines=Computer+Engineering+%7C+UNISTMO;Python+%C2%B7+PHP+%C2%B7+Laravel+%C2%B7+C+%C2%B7+Dart;Docker+%C2%B7+AWS+%C2%B7+GCP+%C2%B7+Linux;Development+%7C+Infrastructure+%7C+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -29,44 +29,44 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Jean1722343&label=Visitas+al+perfil&color=1f6feb&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Jean1722343&label=Profile+views&color=1f6feb&style=flat-square" />
 
 </div>
 
-<!-- Separador -->
+<!-- Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SOBRE MÍ -->
+<!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px" />&nbsp; Sobre mí</h2>
+<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28px" />&nbsp; About me</h2>
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-🎓 &nbsp;Estudiante de **Ingeniería en Computación** — **UNISTMO**, Oaxaca.
+🎓 &nbsp;**Computer Engineering** student at **UNISTMO** (Universidad del Istmo), Oaxaca, Mexico.
 
-🛡️ &nbsp;Certificado en **Google Cloud Cybersecurity**.
+🛡️ &nbsp;**Google Cloud Cybersecurity** certified.
 
-💻 &nbsp;Perfil técnico integral: **desarrollo backend**, **infraestructura**, **contenerización** y **servicios cloud**. Trabajo con el ciclo completo del software: desde el código hasta el despliegue en producción.
+💻 &nbsp;Well-rounded technical profile: **backend development**, **infrastructure**, **containerization** and **cloud services**. I work across the full software lifecycle — from writing code to deploying it in production.
 
-🔧 &nbsp;Experiencia práctica con **Python, PHP/Laravel, C y Dart** para construir software, y con **Docker, Bash, GCP y AWS** para operarlo.
+🔧 &nbsp;Hands-on experience with **Python, PHP/Laravel, C and Dart** for building software, and **Docker, Bash, GCP and AWS** for operating it.
 
-🎯 &nbsp;**Busco oportunidades** en desarrollo de software o infraestructura donde pueda aportar valor desde el primer día.
+🎯 &nbsp;**Looking for opportunities** in software development or infrastructure where I can deliver value from day one.
 
-📫 &nbsp;Contacto: **tu_correo@ejemplo.com**
+📫 &nbsp;Contact: **tu_correo@ejemplo.com**
 
 <br clear="both"/>
 <br/>
 
-<!-- Separador -->
+<!-- Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CERTIFICACIÓN -->
+<!-- CERTIFICATION -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>📜&nbsp; Certificación</h2>
+<h2>📜&nbsp; Certification</h2>
 
 <div align="center">
   <table width="80%">
@@ -79,18 +79,18 @@
       <td width="70%" valign="middle">
         <h3>🛡️ Google Cloud Cybersecurity Certificate</h3>
         <p>
-          <img src="https://img.shields.io/badge/Emisor-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
-          <img src="https://img.shields.io/badge/Plataforma-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+          <img src="https://img.shields.io/badge/Issuer-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
+          <img src="https://img.shields.io/badge/Platform-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
         </p>
         <p>
-          ✔ <b>Seguridad Cloud</b> y protección de infraestructura.<br/>
-          ✔ <b>Gestión de Identidades</b> y control de acceso (IAM).<br/>
-          ✔ <b>Detección de Amenazas</b> y respuesta a incidentes.<br/>
-          ✔ <b>Buenas Prácticas</b> de ciberseguridad en ecosistema GCP.
+          ✔ <b>Cloud Security</b> and infrastructure protection.<br/>
+          ✔ <b>Identity Management</b> and access control (IAM).<br/>
+          ✔ <b>Threat Detection</b> and incident response.<br/>
+          ✔ <b>Best Practices</b> for cybersecurity in the GCP ecosystem.
         </p>
         <p>
           <a href="https://www.credly.com/badges/9792088d-2f6d-4471-9e94-15a560071cb0/public_url">
-            <img src="https://img.shields.io/badge/🔗_Verificar_Credencial-58a6ff?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/🔗_Verify_Credential-58a6ff?style=for-the-badge" />
           </a>
         </p>
       </td>
@@ -99,20 +99,20 @@
 
   <br/>
 
-  <a href="./CERTIFICADOS.md">
-    <img src="https://img.shields.io/badge/📁_Ver_todos_mis_certificados_y_cursos_➔-0d1117?style=for-the-badge&color=0d1117&labelColor=0d1117&border=1" />
+  <a href="./CERTIFICATES.md">
+    <img src="https://img.shields.io/badge/📁_View_all_my_certificates_&_courses_➔-0d1117?style=for-the-badge&color=0d1117&labelColor=0d1117&border=1" />
   </a>
 </div>
 
 
-<!-- Separador -->
+<!-- Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- STACK TÉCNICO -->
+<!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" />&nbsp; Stack Técnico</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" />&nbsp; Tech Stack</h2>
 
 <!-- Visual icons -->
 <div align="center">
@@ -123,12 +123,12 @@
 
 <br/>
 
-<!-- Badges organizados -->
+<!-- Organized badges -->
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <h4>🧬 Lenguajes & Frameworks</h4>
+        <h4>🧬 Languages & Frameworks</h4>
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br/>
@@ -136,7 +136,7 @@
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       </td>
       <td align="center" width="33%">
-        <h4>☁️ Infraestructura & DevOps</h4>
+        <h4>☁️ Infrastructure & DevOps</h4>
         <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
@@ -144,7 +144,7 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       </td>
       <td align="center" width="33%">
-        <h4>🔗 Herramientas & Redes</h4>
+        <h4>🔗 Tools & Networking</h4>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -155,16 +155,16 @@
 
 <br/>
 
-<!-- Separador -->
+<!-- Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- PROYECTOS -->
+<!-- PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" />&nbsp; Proyectos Destacados</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" />&nbsp; Featured Projects</h2>
 
-<p align="center"><i>Cada proyecto demuestra una habilidad técnica aplicada a un problema real.</i></p>
+<p align="center"><i>Each project demonstrates a technical skill applied to a real problem.</i></p>
 
 <br/>
 
@@ -172,9 +172,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Nombre del Proyecto 1</h3>
+      <h3 align="center">🚀 Project Name 1</h3>
       <br/>
-      <p align="center"><i>Qué hace y qué problema resuelve.</i></p>
+      <p align="center"><i>What it does and what problem it solves.</i></p>
       <br/>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
@@ -184,14 +184,14 @@
       <br/>
       <p align="center">
         <a href="https://github.com/Jean1722343/repo">
-          <img src="https://img.shields.io/badge/Ver_repositorio-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Nombre del Proyecto 2</h3>
+      <h3 align="center">⚙️ Project Name 2</h3>
       <br/>
-      <p align="center"><i>Qué hace y qué problema resuelve.</i></p>
+      <p align="center"><i>What it does and what problem it solves.</i></p>
       <br/>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -201,16 +201,16 @@
       <br/>
       <p align="center">
         <a href="https://github.com/Jean1722343/repo">
-          <img src="https://img.shields.io/badge/Ver_repositorio-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Nombre del Proyecto 3</h3>
+      <h3 align="center">🌐 Project Name 3</h3>
       <br/>
-      <p align="center"><i>Qué hace y qué problema resuelve.</i></p>
+      <p align="center"><i>What it does and what problem it solves.</i></p>
       <br/>
       <p align="center">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -219,14 +219,14 @@
       <br/>
       <p align="center">
         <a href="https://github.com/Jean1722343/repo">
-          <img src="https://img.shields.io/badge/Ver_repositorio-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔒 Nombre del Proyecto 4</h3>
+      <h3 align="center">🔒 Project Name 4</h3>
       <br/>
-      <p align="center"><i>Qué hace y qué problema resuelve.</i></p>
+      <p align="center"><i>What it does and what problem it solves.</i></p>
       <br/>
       <p align="center">
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -235,7 +235,7 @@
       <br/>
       <p align="center">
         <a href="https://github.com/Jean1722343/repo">
-          <img src="https://img.shields.io/badge/Ver_repositorio-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -245,7 +245,7 @@
 
 <br/>
 
-<!-- Separador -->
+<!-- Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -266,7 +266,7 @@
   <br/><br/>
 
   <!-- Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jean1722343&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribuciones" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jean1722343&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contributions" alt="Activity Graph" />
 
   <br/>
 
@@ -277,28 +277,29 @@
 
 <br/>
 
-<!-- Separador -->
+<!-- Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTACTO -->
+<!-- CONTACT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px" />&nbsp; Conectemos</h2>
+<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px" />&nbsp; Let's connect</h2>
 
 <div align="center">
 
-  <p><b>Estoy abierto a oportunidades laborales, prácticas profesionales y colaboraciones técnicas.</b></p>
+  <p><b>I'm open to job opportunities, internships and technical collaborations.</b></p>
 
   <br/>
 
   <a href="https://www.linkedin.com/in/jean-paul-gallegos-cruz-063953405/">
-    <img src="https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:tu_correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Envíame_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </div>
 
-
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:161b22,100:0d1117&height=120&section=footer" />
