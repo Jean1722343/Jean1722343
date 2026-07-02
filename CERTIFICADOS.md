@@ -23,10 +23,11 @@
 
 <br/>
 
-### 🛡️ Normativas y Seguridad (ISO)
+### 🛡️ Ciberseguridad y Normativas (ISO)
 
 | Curso / Certificado | Emisor | Año | Evidencia |
 | :--- | :---: | :---: | :---: |
+| **[Google Cloud Cybersecurity Certificate]**<br/><sub>*Programa profesional (105 horas).*</sub> | Google / Credly | 2024 | [🔗 Verificar Credencial](https://www.credly.com/badges/9792088d-2f6d-4471-9e94-15a560071cb0/public_url) |
 | **[ISO/IEC 20000-1:2018 Lead Auditor I20000LA]**<br/><sub>*Auditor líder (14 horas).*</sub> | CertiProf | 2025 | [🔗 Ver Certificado](./assets/certificados/iso_20000_certiprof.png) |
 
 <br/>

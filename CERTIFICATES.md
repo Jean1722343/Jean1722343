@@ -23,10 +23,11 @@
 
 <br/>
 
-### 🛡️ ISO Standards & Security
+### 🛡️ Cybersecurity & ISO Standards
 
 | Course / Certificate | Issuer | Year | Credential |
 | :--- | :---: | :---: | :---: |
+| **[Google Cloud Cybersecurity Certificate]**<br/><sub>*Professional program (105 hours).*</sub> | Google / Credly | 2024 | [🔗 Verify Credential](https://www.credly.com/badges/9792088d-2f6d-4471-9e94-15a560071cb0/public_url) |
 | **[ISO/IEC 20000-1:2018 Lead Auditor I20000LA]**<br/><sub>*Lead Auditor (14 hours).*</sub> | CertiProf | 2025 | [🔗 View Certificate](./assets/certificados/iso_20000_certiprof.png) |
 
 <br/>
