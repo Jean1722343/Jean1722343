@@ -14,20 +14,12 @@
 
 <br/>
 
-### 💻 Programming & Development
-
-| Course / Certificate | Issuer | Year | Credential |
-| :--- | :---: | :---: | :---: |
-| **[Programming course name]** | Platform (e.g., Udemy) | 2024 | [🔗 View File](./assets/certificados/example.pdf) |
-| **[Another programming course]** | Platform | 2023 | [🔗 View Image](./assets/certificados/example.jpg) |
-
-<br/>
-
 ### 🤖 Artificial Intelligence & Data
 
 | Course / Certificate | Issuer | Year | Credential |
 | :--- | :---: | :---: | :---: |
-| **[AI course name]** | Institution | 2024 | [🔗 View Certificate](#) |
+| **[Diploma in AI Integration in Learning Scenarios]**<br/><sub>*Duration: 120 hours.*</sub> | Tecnológico Nacional de México (TecNM) | 2025 | [🔗 View Diploma](./assets/certificados/diplomado_ia_tecnm.pdf) |
+| **[Introduction to AI Development Certificate]**<br/><sub>*AI Development: Program with Agents (6 hours).*</sub> | mouredev / BIG school | 2026 | [🔗 View Certificate](./assets/certificados/iniciacion_ia_mouredev.png) |
 
 <br/>
 
@@ -35,7 +27,15 @@
 
 | Course / Certificate | Issuer | Year | Credential |
 | :--- | :---: | :---: | :---: |
-| **[ISO Standard or Quality Certification]** | Issuer | 2023 | [🔗 View Certificate](#) |
+| **[ISO/IEC 20000-1:2018 Lead Auditor I20000LA]**<br/><sub>*Lead Auditor (14 hours).*</sub> | CertiProf | 2025 | [🔗 View Certificate](./assets/certificados/iso_20000_certiprof.png) |
+
+<br/>
+
+### 💻 Programming & Development
+
+| Course / Certificate | Issuer | Year | Credential |
+| :--- | :---: | :---: | :---: |
+| **[Programming course name]** | Platform (e.g., Udemy) | 2024 | [🔗 View File](./assets/certificados/example.pdf) |
 
 <br/>
 
@@ -44,7 +44,6 @@
 | Workshop / Seminar | Institution | Year | Credential |
 | :--- | :---: | :---: | :---: |
 | **[Hardware or Networking workshop]** | UNISTMO | 2023 | [🔗 View Certificate](#) |
-| **[Tech Seminar]** | UNISTMO | 2022 | [🔗 View Certificate](#) |
 
 <br/>
 

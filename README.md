@@ -24,7 +24,7 @@
 
   <!-- Contact badges -->
   <a href="https://www.linkedin.com/in/jean-paul-gallegos-cruz-063953405/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="mailto:jeanpaul.gallegosc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/Jean1722343"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
   <br/><br/>
@@ -54,7 +54,7 @@
 
 🎯 &nbsp;**Busco oportunidades** en desarrollo de software o infraestructura donde pueda aportar valor desde el primer día.
 
-📫 &nbsp;Contacto: **tu_correo@ejemplo.com**
+📫 &nbsp;Contacto: **jeanpaul.gallegosc@gmail.com**
 
 <br clear="both"/>
 <br/>
@@ -295,7 +295,7 @@
   <a href="https://www.linkedin.com/in/jean-paul-gallegos-cruz-063953405/">
     <img src="https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:tu_correo@ejemplo.com">
+  <a href="mailto:jeanpaul.gallegosc@gmail.com">
     <img src="https://img.shields.io/badge/Envíame_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 

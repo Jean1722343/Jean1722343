@@ -14,20 +14,12 @@
 
 <br/>
 
-### 💻 Programación y Desarrollo
-
-| Curso / Certificado | Emisor | Año | Evidencia |
-| :--- | :---: | :---: | :---: |
-| **[Nombre del curso de programación]** | Plataforma (ej. Udemy) | 2024 | [🔗 Ver Archivo](./assets/certificados/ejemplo.pdf) |
-| **[Otro curso de programación]** | Plataforma | 2023 | [🔗 Ver Imagen](./assets/certificados/ejemplo.jpg) |
-
-<br/>
-
 ### 🤖 Inteligencia Artificial y Datos
 
 | Curso / Certificado | Emisor | Año | Evidencia |
 | :--- | :---: | :---: | :---: |
-| **[Nombre del curso de IA]** | Institución | 2024 | [🔗 Ver Certificado](#) |
+| **[Diplomado en Integración de Inteligencia Artificial en Escenarios de Aprendizaje]**<br/><sub>*Duración: 120 horas.*</sub> | Tecnológico Nacional de México (TecNM) | 2025 | [🔗 Ver Diploma](./assets/certificados/diplomado_ia_tecnm.pdf) |
+| **[Certificado de Iniciación al Desarrollo con IA]**<br/><sub>*Desarrollo con IA: Programa con Agentes (6 horas).*</sub> | mouredev / BIG school | 2026 | [🔗 Ver Certificado](./assets/certificados/iniciacion_ia_mouredev.png) |
 
 <br/>
 
@@ -35,7 +27,15 @@
 
 | Curso / Certificado | Emisor | Año | Evidencia |
 | :--- | :---: | :---: | :---: |
-| **[Norma ISO o certificación de calidad]** | Emisor | 2023 | [🔗 Ver Certificado](#) |
+| **[ISO/IEC 20000-1:2018 Lead Auditor I20000LA]**<br/><sub>*Auditor líder (14 horas).*</sub> | CertiProf | 2025 | [🔗 Ver Certificado](./assets/certificados/iso_20000_certiprof.png) |
+
+<br/>
+
+### 💻 Programación y Desarrollo
+
+| Curso / Certificado | Emisor | Año | Evidencia |
+| :--- | :---: | :---: | :---: |
+| **[Nombre del curso de programación]** | Plataforma (ej. Udemy) | 2024 | [🔗 Ver Archivo](./assets/certificados/ejemplo.pdf) |
 
 <br/>
 
@@ -44,7 +44,6 @@
 | Taller / Seminario | Institución | Año | Evidencia |
 | :--- | :---: | :---: | :---: |
 | **[Taller de redes o hardware]** | UNISTMO | 2023 | [🔗 Ver Certificado](#) |
-| **[Seminario de tecnología]** | UNISTMO | 2022 | [🔗 Ver Constancia](#) |
 
 <br/>
 
