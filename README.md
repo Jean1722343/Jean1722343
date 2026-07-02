@@ -118,7 +118,7 @@
 <!-- Visual icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,dart,php,laravel,gcp,aws,docker,bash,git,github,linux&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,dart,flutter,php,laravel,gcp,aws,docker,bash,git,github,linux&perline=7&theme=dark" />
   </a>
 </div>
 
@@ -133,6 +133,7 @@
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       </td>
@@ -242,7 +243,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 <br/>
 
@@ -253,27 +253,36 @@
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px" />&nbsp; GitHub Analytics</h2>
-
 <div align="center">
 
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Jean1722343&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jean1722343&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&count_private=true" alt="GitHub Stats" />
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px" />&nbsp; GitHub Analytics</h2>
 
-  <br/><br/>
+<!-- Animación de Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+c%C3%B3digo...;Construyendo+soluciones+escalables...;Siempre+aprendiendo+algo+nuevo..." alt="Typing SVG" />
+</a>
 
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean1722343&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Langs" />
+<br/><br/>
 
-  <br/><br/>
+<p align="center">
+  <a href="https://github.com/Jean1722343">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jean1722343&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d&include_all_commits=true&count_private=true&locale=es" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Jean1722343">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jean1722343&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&locale=es" height="195" alt="Top Langs" />
+  </a>
+</p>
 
-  <!-- Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jean1722343&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribuciones" alt="Activity Graph" />
+</div>
 
+<br/>
+
+<div align="center">
+  <h3><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture> Gráfica de Contribuciones de GitHub</h3>
   <br/>
-
-  <!-- Trophies -->
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jean1722343&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-h=15&margin-w=5" alt="Trophies" />
-
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jean1722343&theme=tokyo-night&hide_border=false&locale=es" width="100%" alt="Jean1722343's github activity graph" />
+  </a>
 </div>
 
 <br/>
