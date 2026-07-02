@@ -19,7 +19,7 @@
 | Curso / Certificado | Emisor | Año | Evidencia |
 | :--- | :---: | :---: | :---: |
 | **[Diplomado en Integración de Inteligencia Artificial en Escenarios de Aprendizaje]**<br/><sub>*Duración: 120 horas.*</sub> | Tecnológico Nacional de México (TecNM) | 2025 | [🔗 Ver Diploma](./assets/certificados/diplomado_ia_tecnm.pdf) |
-| **[Certificado de Iniciación al Desarrollo con IA]**<br/><sub>*Desarrollo con IA: Programa con Agentes (6 horas).*</sub> | mouredev / BIG school | 2026 | [🔗 Ver Certificado](./assets/certificados/iniciacion_ia_mouredev.png) |
+| **[Certificado de Iniciación al Desarrollo con IA]**<br/><sub>*Desarrollo con IA: Programa con Agentes (6 horas).*</sub> | mouredev / BIG school | 2026 | [🔗 Ver Certificado](./assets/certificados/iniciacion_ia_mouredev.pdf) |
 
 <br/>
 
