@@ -80,7 +80,8 @@
         <h3>🛡️ Google Cloud Cybersecurity Certificate</h3>
         <p>
           <img src="https://img.shields.io/badge/Emisor-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
-          <img src="https://img.shields.io/badge/Plataforma-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+          <img src="https://img.shields.io/badge/Plataforma-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />&nbsp;
+          <img src="https://img.shields.io/badge/Duración-105_Horas-1f6feb?style=for-the-badge" />
         </p>
         <p>
           ✔ <b>Seguridad Cloud</b> y protección de infraestructura.<br/>
