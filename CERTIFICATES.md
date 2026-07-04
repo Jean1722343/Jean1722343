@@ -37,6 +37,7 @@
 | Course / Certificate | Issuer | Year | Credential |
 | :--- | :---: | :---: | :---: |
 | **[Professional Docker Course]** | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20Profesional%20de%20Docker.pdf) |
+| **[Introduction to DevOps: Basics and Concepts]** | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Introducci%C3%B3n%20a%20DevOps_%20Bases%20y%20Conceptos.pdf) |
 
 <br/>
 
