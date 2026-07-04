@@ -36,7 +36,7 @@
 
 | Course / Certificate | Issuer | Year | Credential |
 | :--- | :---: | :---: | :---: |
-| **[Programming course name]** | Platform (e.g., Udemy) | 2024 | [🔗 View File](./assets/certificados/example.pdf) |
+| **[Professional Docker Course]** | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20Profesional%20de%20Docker.pdf) |
 
 <br/>
 

@@ -36,7 +36,7 @@
 
 | Curso / Certificado | Emisor | Año | Evidencia |
 | :--- | :---: | :---: | :---: |
-| **[Nombre del curso de programación]** | Plataforma (ej. Udemy) | 2024 | [🔗 Ver Archivo](./assets/certificados/ejemplo.pdf) |
+| **[Curso Profesional de Docker]** | Código Facilito | 2026 | [🔗 Ver Certificado](./assets/certificados/Certificado%20-%20Curso%20Profesional%20de%20Docker.pdf) |
 
 <br/>
 
