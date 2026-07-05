@@ -20,7 +20,7 @@
 | :--- | :---: | :---: | :---: |
 | **[Diploma in AI Integration in Learning Scenarios]**<br/><sub>*Duration: 120 hours.*</sub> | Tecnológico Nacional de México (TecNM) | 2025 | [🔗 View Diploma](./assets/certificados/diplomado_ia_tecnm.pdf) |
 | **[Introduction to AI Development Certificate]**<br/><sub>*AI Development: Program with Agents (6 hours).*</sub> | mouredev / BIG school | 2026 | [🔗 View Certificate](./assets/certificados/iniciacion_ia_mouredev.pdf) |
-| **[Power BI Course]**<br/><sub>*Data Analysis and Visualization.*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Power%20BI.pdf) |
+| **[Power BI Course]**<br/><sub>*Data Analysis and Visualization (2.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Power%20BI.pdf) |
 
 <br/>
 
@@ -37,8 +37,8 @@
 
 | Course / Certificate | Issuer | Year | Credential |
 | :--- | :---: | :---: | :---: |
-| **[Professional Docker Course]** | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20Profesional%20de%20Docker.pdf) |
-| **[Introduction to DevOps: Basics and Concepts]** | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Introducci%C3%B3n%20a%20DevOps_%20Bases%20y%20Conceptos.pdf) |
+| **[Professional Docker Course]**<br/><sub>*Containers (3.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20Profesional%20de%20Docker.pdf) |
+| **[Introduction to DevOps: Basics and Concepts]**<br/><sub>*DevOps Culture (1.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Introducci%C3%B3n%20a%20DevOps_%20Bases%20y%20Conceptos.pdf) |
 
 <br/>
 
