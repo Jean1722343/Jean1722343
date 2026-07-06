@@ -20,6 +20,7 @@
 | :--- | :---: | :---: | :---: |
 | **[Diploma in AI Integration in Learning Scenarios]**<br/><sub>*Duration: 120 hours.*</sub> | Tecnológico Nacional de México (TecNM) | 2025 | [🔗 View Diploma](./assets/certificados/diplomado_ia_tecnm.pdf) |
 | **[Introduction to AI Development Certificate]**<br/><sub>*AI Development: Program with Agents (6 hours).*</sub> | mouredev / BIG school | 2026 | [🔗 View Certificate](./assets/certificados/iniciacion_ia_mouredev.pdf) |
+| **[Software Development with Claude Code Course]**<br/><sub>*AI-Assisted Development (4.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Desarrollo%20de%20software%20con%20Claude%20Code.pdf) |
 | **[Power BI Course]**<br/><sub>*Data Analysis and Visualization (2.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Power%20BI.pdf) |
 
 <br/>
