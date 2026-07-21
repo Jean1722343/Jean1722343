@@ -43,22 +43,6 @@
 
 <br/>
 
-### 🎓 Talleres y Seminarios Universitarios
-
-| Taller / Seminario | Institución | Año | Evidencia |
-| :--- | :---: | :---: | :---: |
-| **[Taller de redes o hardware]** | UNISTMO | 2023 | [🔗 Ver Certificado](#) |
-
-<br/>
-
-### 🗣️ Idiomas y Habilidades
-
-| Curso / Certificado | Emisor | Año | Evidencia |
-| :--- | :---: | :---: | :---: |
-| **[Certificación de Inglés - Nivel B2/C1]** | Institución | 2023 | [🔗 Ver Certificado](#) |
-
-<br/>
-
 ---
 <div align="center">
   <sub>Impulsado por la curiosidad y el aprendizaje constante. 🚀</sub>

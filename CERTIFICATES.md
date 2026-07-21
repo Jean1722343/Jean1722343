@@ -43,22 +43,6 @@
 
 <br/>
 
-### 🎓 University Workshops & Seminars
-
-| Workshop / Seminar | Institution | Year | Credential |
-| :--- | :---: | :---: | :---: |
-| **[Hardware or Networking workshop]** | UNISTMO | 2023 | [🔗 View Certificate](#) |
-
-<br/>
-
-### 🗣️ Languages & Soft Skills
-
-| Course / Certificate | Issuer | Year | Credential |
-| :--- | :---: | :---: | :---: |
-| **[English Certification - B2/C1 Level]** | Institution | 2023 | [🔗 View Certificate](#) |
-
-<br/>
-
 ---
 <div align="center">
   <sub>Driven by curiosity and constant learning. 🚀</sub>
