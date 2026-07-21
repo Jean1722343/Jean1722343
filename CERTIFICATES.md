@@ -21,6 +21,7 @@
 | **[Diploma in AI Integration in Learning Scenarios]**<br/><sub>*Duration: 120 hours.*</sub> | Tecnológico Nacional de México (TecNM) | 2025 | [🔗 View Diploma](./assets/certificados/diplomado_ia_tecnm.pdf) |
 | **[Introduction to AI Development Certificate]**<br/><sub>*AI Development: Program with Agents (6 hours).*</sub> | mouredev / BIG school | 2026 | [🔗 View Certificate](./assets/certificados/iniciacion_ia_mouredev.pdf) |
 | **[Software Development with Claude Code Course]**<br/><sub>*AI-Assisted Development (4.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Desarrollo%20de%20software%20con%20Claude%20Code.pdf) |
+| **[Software Development Based on Agents Bootcamp with Kiro]**<br/><sub>*Agent-based Development (16 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Bootcamp%20Desarrollo%20de%20software%20basado%20en%20agentes%20con%20Kiro.pdf) |
 | **[Power BI Course]**<br/><sub>*Data Analysis and Visualization (2.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Power%20BI.pdf) |
 
 <br/>
@@ -40,6 +41,7 @@
 | :--- | :---: | :---: | :---: |
 | **[Professional Docker Course]**<br/><sub>*Containers (3.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20Profesional%20de%20Docker.pdf) |
 | **[Introduction to DevOps: Basics and Concepts]**<br/><sub>*DevOps Culture (1.5 hours).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Curso%20de%20Introducci%C3%B3n%20a%20DevOps_%20Bases%20y%20Conceptos.pdf) |
+| **[AWS Path]**<br/><sub>*AWS Training (9 weeks).*</sub> | Código Facilito | 2026 | [🔗 View Certificate](./assets/certificados/Certificado%20-%20Ruta%20de%20AWS.pdf) |
 
 <br/>
 

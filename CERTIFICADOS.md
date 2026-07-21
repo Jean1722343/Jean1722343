@@ -21,6 +21,7 @@
 | **[Diplomado en Integración de Inteligencia Artificial en Escenarios de Aprendizaje]**<br/><sub>*Duración: 120 horas.*</sub> | Tecnológico Nacional de México (TecNM) | 2025 | [🔗 Ver Diploma](./assets/certificados/diplomado_ia_tecnm.pdf) |
 | **[Certificado de Iniciación al Desarrollo con IA]**<br/><sub>*Desarrollo con IA: Programa con Agentes (6 horas).*</sub> | mouredev / BIG school | 2026 | [🔗 Ver Certificado](./assets/certificados/iniciacion_ia_mouredev.pdf) |
 | **[Curso de Desarrollo de software con Claude Code]**<br/><sub>*Desarrollo Asistido por IA (4.5 horas).*</sub> | Código Facilito | 2026 | [🔗 Ver Certificado](./assets/certificados/Certificado%20-%20Curso%20de%20Desarrollo%20de%20software%20con%20Claude%20Code.pdf) |
+| **[Bootcamp Desarrollo de software basado en agentes con Kiro]**<br/><sub>*Desarrollo basado en agentes (16 horas).*</sub> | Código Facilito | 2026 | [🔗 Ver Certificado](./assets/certificados/Certificado%20-%20Bootcamp%20Desarrollo%20de%20software%20basado%20en%20agentes%20con%20Kiro.pdf) |
 | **[Curso de Power BI]**<br/><sub>*Análisis y Visualización de Datos (2.5 horas).*</sub> | Código Facilito | 2026 | [🔗 Ver Certificado](./assets/certificados/Certificado%20-%20Curso%20de%20Power%20BI.pdf) |
 
 <br/>
@@ -40,6 +41,7 @@
 | :--- | :---: | :---: | :---: |
 | **[Curso Profesional de Docker]**<br/><sub>*Contenedores (3.5 horas).*</sub> | Código Facilito | 2026 | [🔗 Ver Certificado](./assets/certificados/Certificado%20-%20Curso%20Profesional%20de%20Docker.pdf) |
 | **[Curso de Introducción a DevOps: Bases y Conceptos]**<br/><sub>*Cultura DevOps (1.5 horas).*</sub> | Código Facilito | 2026 | [🔗 Ver Certificado](./assets/certificados/Certificado%20-%20Curso%20de%20Introducci%C3%B3n%20a%20DevOps_%20Bases%20y%20Conceptos.pdf) |
+| **[Ruta de AWS]**<br/><sub>*Formación en AWS (9 semanas).*</sub> | Código Facilito | 2026 | [🔗 Ver Certificado](./assets/certificados/Certificado%20-%20Ruta%20de%20AWS.pdf) |
 
 <br/>
 
