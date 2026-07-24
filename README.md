@@ -283,16 +283,7 @@
 
 </div>
 
-<br/>
 
-<!-- Gráfica de Actividad Anual -->
-<div align="center">
-  <h3><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture> Gráfica de Contribuciones de GitHub</h3>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jean1722343&theme=tokyo-night&hide_border=false&area=true&locale=es" width="100%" alt="Jean1722343's github activity graph" />
-  </a>
-</div>
 
 <br/>
 
