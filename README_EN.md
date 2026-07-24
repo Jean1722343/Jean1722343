@@ -265,6 +265,7 @@
 
 <br/><br/>
 
+<!-- Main Stats Cards -->
 <p align="center">
   <a href="https://github.com/Jean1722343">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jean1722343&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_color=30363d&include_all_commits=true&count_private=true&locale=en" height="195" alt="GitHub Stats" />
@@ -274,15 +275,23 @@
   </a>
 </p>
 
+<!-- Commit Streak Card -->
+<p align="center">
+  <a href="https://github.com/Jean1722343">
+    <img src="https://streak-stats.demolab.com/?user=Jean1722343&theme=tokyo-night&background=0d1117&border=30363d&stroke=58a6ff&ring=1f6feb&fire=1f6feb&currStreakNum=58a6ff&sideNums=58a6ff&sideTitle=8b949e&currStreakLabel=58a6ff&dates=8b949e&hide_border=false" height="195" alt="GitHub Streak" />
+  </a>
+</p>
+
 </div>
 
 <br/>
 
+<!-- Annual Activity Graph -->
 <div align="center">
   <h3><picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture> GitHub Contribution Graph</h3>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jean1722343&theme=tokyo-night&hide_border=false&locale=en" width="100%" alt="Jean1722343's github activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jean1722343&theme=tokyo-night&hide_border=false&area=true&locale=en" width="100%" alt="Jean1722343's github activity graph" />
   </a>
 </div>
 
