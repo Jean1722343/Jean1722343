@@ -46,6 +46,14 @@
 
 <br/>
 
+### 🗣️ Languages & Professional Development
+
+| Course / Certificate | Issuer | Year | Credential |
+| :--- | :---: | :---: | :---: |
+| **[English for Career Development]**<br/><sub>*Professional English for career advancement.*</sub> | University of Pennsylvania / Coursera | 2026 | [🔗 View Certificate](./assets/certificados/Certificado_Ingles_profesional.pdf) · [Verify](https://coursera.org/verify/TA3ZL81L7ZVK) |
+
+<br/>
+
 ---
 <div align="center">
   <sub>Driven by curiosity and constant learning. 🚀</sub>

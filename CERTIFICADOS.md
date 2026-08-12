@@ -46,6 +46,14 @@
 
 <br/>
 
+### 🗣️ Idiomas y Desarrollo Profesional
+
+| Curso / Certificado | Emisor | Año | Evidencia |
+| :--- | :---: | :---: | :---: |
+| **[English for Career Development]**<br/><sub>*Inglés profesional para el desarrollo de carrera.*</sub> | University of Pennsylvania / Coursera | 2026 | [🔗 Ver Certificado](./assets/certificados/Certificado_Ingles_profesional.pdf) · [Verificar](https://coursera.org/verify/TA3ZL81L7ZVK) |
+
+<br/>
+
 ---
 <div align="center">
   <sub>Impulsado por la curiosidad y el aprendizaje constante. 🚀</sub>
