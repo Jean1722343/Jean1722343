@@ -46,7 +46,7 @@
 
 🎓 &nbsp;Estudiante de **Ingeniería en Computación** — **UNISTMO**, Oaxaca.
 
-🛡️ &nbsp;Certificado en **Google Cloud Cybersecurity**.
+🛡️ &nbsp;Certificado en **Google Cloud Cybersecurity** y **Google Cloud Computing Foundations**.
 
 💻 &nbsp;Perfil técnico integral: **desarrollo backend**, **infraestructura**, **contenerización** y **servicios cloud**. Trabajo con el ciclo completo del software: desde el código hasta el despliegue en producción.
 
@@ -63,20 +63,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CERTIFICACIÓN -->
+<!-- CERTIFICACIONES -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>📜&nbsp; Certificación</h2>
+<h2>📜&nbsp; Certificaciones Oficiales</h2>
 
 <div align="center">
-  <table width="80%">
+  <table width="85%">
     <tr>
-      <td align="center" width="30%" valign="middle">
+      <td align="center" width="25%" valign="middle">
         <a href="https://www.credly.com/badges/9792088d-2f6d-4471-9e94-15a560071cb0/public_url">
-          <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Cybersecurity Certificate" />
+          <img width="115px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Cybersecurity Certificate" />
         </a>
       </td>
-      <td width="70%" valign="middle">
+      <td width="75%" valign="middle">
         <h3>🛡️ Google Cloud Cybersecurity Certificate</h3>
         <p>
           <img src="https://img.shields.io/badge/Emisor-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
@@ -91,6 +91,32 @@
         </p>
         <p>
           <a href="https://www.credly.com/badges/9792088d-2f6d-4471-9e94-15a560071cb0/public_url">
+            <img src="https://img.shields.io/badge/🔗_Verificar_Credencial-58a6ff?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%" valign="middle">
+        <a href="https://www.credly.com/badges/c5dc97a6-f50a-4534-b261-dd11794049e8/public_url">
+          <img width="115px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Computing Foundations Certificate" />
+        </a>
+      </td>
+      <td width="75%" valign="middle">
+        <h3>☁️ Google Cloud Computing Foundations Certificate</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Emisor-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
+          <img src="https://img.shields.io/badge/Plataforma-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />&nbsp;
+          <img src="https://img.shields.io/badge/Nivel-Foundational-1f6feb?style=for-the-badge" />
+        </p>
+        <p>
+          ✔ <b>Fundamentos Cloud</b>, arquitectura e infraestructura en GCP.<br/>
+          ✔ <b>Redes, IAM y Balanceo de Carga</b> en Compute Engine.<br/>
+          ✔ <b>Desarrollo de Apps Cloud-Native</b> y funciones Serverless.<br/>
+          ✔ <b>Datos, ML APIs y BigQuery</b> en la nube de Google.
+        </p>
+        <p>
+          <a href="https://www.credly.com/badges/c5dc97a6-f50a-4534-b261-dd11794049e8/public_url">
             <img src="https://img.shields.io/badge/🔗_Verificar_Credencial-58a6ff?style=for-the-badge" />
           </a>
         </p>

@@ -46,13 +46,13 @@
 
 🎓 &nbsp;**Computer Engineering** student at **UNISTMO** (Universidad del Istmo), Oaxaca, Mexico.
 
-🛡️ &nbsp;**Google Cloud Cybersecurity** certified.
+🛡️ &nbsp;Certified in **Google Cloud Cybersecurity** & **Google Cloud Computing Foundations**.
 
-💻 &nbsp;Well-rounded technical profile: **backend development**, **infrastructure**, **containerization** and **cloud services**. I work across the full software lifecycle — from writing code to deploying it in production.
+💻 &nbsp;Comprehensive technical profile: **backend development**, **infrastructure**, **containerization**, and **cloud services**. I work with the complete software lifecycle: from code to production deployment.
 
-🔧 &nbsp;Hands-on experience with **Python, PHP/Laravel, C and Dart** for building software, and **Docker, Bash, GCP and AWS** for operating it.
+🔧 &nbsp;Hands-on experience with **Python, PHP/Laravel, C, and Dart** to build software, and **Docker, Bash, GCP, and AWS** to operate it.
 
-🎯 &nbsp;**Looking for opportunities** in software development or infrastructure where I can deliver value from day one.
+🎯 &nbsp;**Seeking opportunities** in software development or infrastructure where I can deliver value from day one.
 
 📫 &nbsp;Contact: **jeanpaul.gallegosc@gmail.com**
 
@@ -63,20 +63,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CERTIFICATION -->
+<!-- CERTIFICATIONS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2>📜&nbsp; Certification</h2>
+<h2>📜&nbsp; Official Certifications</h2>
 
 <div align="center">
-  <table width="80%">
+  <table width="85%">
     <tr>
-      <td align="center" width="30%" valign="middle">
+      <td align="center" width="25%" valign="middle">
         <a href="https://www.credly.com/badges/9792088d-2f6d-4471-9e94-15a560071cb0/public_url">
-          <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Cybersecurity Certificate" />
+          <img width="115px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Cybersecurity Certificate" />
         </a>
       </td>
-      <td width="70%" valign="middle">
+      <td width="75%" valign="middle">
         <h3>🛡️ Google Cloud Cybersecurity Certificate</h3>
         <p>
           <img src="https://img.shields.io/badge/Issuer-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
@@ -91,6 +91,32 @@
         </p>
         <p>
           <a href="https://www.credly.com/badges/9792088d-2f6d-4471-9e94-15a560071cb0/public_url">
+            <img src="https://img.shields.io/badge/🔗_Verify_Credential-58a6ff?style=for-the-badge" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%" valign="middle">
+        <a href="https://www.credly.com/badges/c5dc97a6-f50a-4534-b261-dd11794049e8/public_url">
+          <img width="115px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Computing Foundations Certificate" />
+        </a>
+      </td>
+      <td width="75%" valign="middle">
+        <h3>☁️ Google Cloud Computing Foundations Certificate</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Issuer-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
+          <img src="https://img.shields.io/badge/Platform-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />&nbsp;
+          <img src="https://img.shields.io/badge/Level-Foundational-1f6feb?style=for-the-badge" />
+        </p>
+        <p>
+          ✔ <b>Cloud Fundamentals</b>, architecture & infrastructure in GCP.<br/>
+          ✔ <b>Networking, IAM & Load Balancing</b> in Compute Engine.<br/>
+          ✔ <b>Cloud-Native App Development</b> & Serverless functions.<br/>
+          ✔ <b>Data, ML APIs & BigQuery</b> in Google Cloud.
+        </p>
+        <p>
+          <a href="https://www.credly.com/badges/c5dc97a6-f50a-4534-b261-dd11794049e8/public_url">
             <img src="https://img.shields.io/badge/🔗_Verify_Credential-58a6ff?style=for-the-badge" />
           </a>
         </p>
