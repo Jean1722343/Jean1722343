@@ -46,19 +46,21 @@
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-🎓 &nbsp;**Computer Engineering** student at **UNISTMO** (Universidad del Istmo), Tehuantepec campus, Oaxaca, Mexico.
+I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, writing this from Oaxaca, Mexico. I started out wrestling with memory management and low-level logic in **C**, because I believed —and still do— that to build good software you first need to understand what happens underneath. From there I moved on to backends with **Python** and **PHP/Laravel**, and to mobile apps. At some point, writing code that "just works" stopped being enough: **security** and **architecture** are the rest of the job, and they’re what keeps me hooked today.
 
-🚀 &nbsp;**Google Student Ambassador ’26** (first cohort in Mexico) and **AWS Student Builder Group Leader** — I founded the first Student Builder Group at my university. Both are **student, volunteer roles**.
+<br/>
 
-🛡️ &nbsp;I started out wrestling with memory management and low-level logic in **C**, then moved on to backends with **Python** and **PHP/Laravel** and to mobile apps. Writing code that "just works" stopped being enough: security and architecture are the rest of the job.
+☁️ &nbsp;**A multi-cloud path, genuinely in progress.** Google Cloud is my base —that’s where I earned the **Cybersecurity Certificate** (105 h of hands-on defense and detection labs) and **Cloud Computing Foundations**— with **AWS** and **Azure** on the way. **AI** is the thread tying the rest together: cloud, cybersecurity and a bit of robotics.
 
-☁️ &nbsp;**Multi-cloud path in progress**: Google Cloud as my base —with the **Google Cloud Cybersecurity Certificate** (105 h) and **Cloud Computing Foundations**— and **AWS and Azure** on the way.
+🛠️ &nbsp;**What I’ve built.** A road-alert platform shipped in **24 hours** at a hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), a tool that **backs up Google Classroom** before the term closes, a YouTube transcript extractor, and —as a co-author— a **business ERP** and a **psychometric test**. Plus a project built on an **AI API**. I learn by building and breaking things: that’s the part that never feels like homework.
 
-📐 &nbsp;**Professional technical license in programming** and **ISO/IEC 20000 Lead Auditor** training: I’m comfortable both in code and in IT governance.
+🚀 &nbsp;**I’m inside two tech programs.** **Google Student Ambassador ’26** —first cohort in Mexico— and **AWS Student Builder Group Leader**, where I founded the first Student Builder Group at my university. Both are **student, volunteer roles**, and I use them to bring these tools to people who are a semester or two behind me.
 
-🌱 &nbsp;Volunteer at **Nexis Oaxaca Tech**, helping organize talks and events. **Full scholarship in the NCEA** technical English program, working toward C1/C2.
+📐 &nbsp;**Not everything is code.** I hold a **professional technical license in programming** and trained as an **ISO/IEC 20000 Lead Auditor**, so I’m as comfortable in a repository as in IT governance. I’m also studying technical English on a **full NCEA scholarship**, working toward C1/C2.
 
-🎯 &nbsp;**Seeking opportunities** in software development, cloud or security where I can deliver value from day one.
+🌱 &nbsp;**Community.** I’ve been a **Core Team Member and organizer at Nexis Oaxaca Tech** since June 2026, helping run talks and events to grow Oaxaca’s tech scene. And I share what I learn inside these programs in Spanish, for students across Latin America.
+
+🎯 &nbsp;**What I’m looking for.** Opportunities in **software development, cloud or security** where I can contribute from day one, and more programs, scholarships and events that push me out of my comfort zone. If you’re into cybersecurity, cloud or tech communities, reach out — I’m always up for trading ideas and technical challenges.
 
 📫 &nbsp;Contact: **jeanpaul.gallegosc@gmail.com**
 

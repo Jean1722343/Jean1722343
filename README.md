@@ -46,19 +46,21 @@
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-🎓 &nbsp;Estudiante de **Ingeniería en Computación** — **UNISTMO**, campus Tehuantepec, Oaxaca.
+Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehuantepec, y escribo esto desde Oaxaca. Empecé peleándome con la gestión de memoria y la lógica de bajo nivel en **C**, porque creía —y sigo creyendo— que para construir buen software primero hay que entender qué pasa por debajo. De ahí salté al backend con **Python** y **PHP/Laravel**, y a las apps móviles. En algún punto, escribir código que «simplemente funcione» dejó de bastarme: la **seguridad** y la **arquitectura** son el resto del trabajo, y son lo que hoy me tiene enganchado.
 
-🚀 &nbsp;**Google Student Ambassador ’26** (1.ª generación en México) y **AWS Student Builder Group Leader**: fundé el primer Student Builder Group de mi universidad. Son roles **estudiantiles y voluntarios**.
+<br/>
 
-🛡️ &nbsp;Empecé peleándome con la gestión de memoria y la lógica de bajo nivel en **C**, y de ahí salté al backend con **Python** y **PHP/Laravel** y a las apps móviles. Escribir código que «simplemente funcione» dejó de bastarme: la seguridad y la arquitectura son el resto del trabajo.
+☁️ &nbsp;**Ruta multinube, en curso de verdad.** Google Cloud es mi base —ahí hice el **Cybersecurity Certificate** (105 h de laboratorios de defensa y detección) y el de **Cloud Computing Foundations**—, con **AWS** y **Azure** en camino. La **IA** es el hilo que une lo demás: cloud, ciberseguridad y algo de robótica.
 
-☁️ &nbsp;**Ruta multinube en curso**: Google Cloud como base —con el **Google Cloud Cybersecurity Certificate** (105 h) y el de **Cloud Computing Foundations**—, y **AWS y Azure** en camino.
+🛠️ &nbsp;**Lo que he construido.** Una plataforma de alertas viales desplegada en **24 horas** en un hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), una herramienta que **respalda Google Classroom** antes de que se cierre el ciclo, un extractor de transcripciones de YouTube, y como coautor, un **ERP empresarial** y un **test psicométrico**. También un proyecto sobre una **API de IA**. Aprendo construyendo y rompiendo cosas: es la parte que no se me hace tarea.
 
-📐 &nbsp;**Cédula profesional técnica en programación** y formación como **Lead Auditor ISO/IEC 20000**: me muevo igual en el código que en la gobernanza de TI.
+🚀 &nbsp;**Estoy dentro de dos programas tech.** **Google Student Ambassador ’26** —de la 1.ª generación en México— y **AWS Student Builder Group Leader**, donde fundé el primer Student Builder Group de mi universidad. Los dos son roles **estudiantiles y voluntarios**, y los aprovecho para acercar estas herramientas a gente que está uno o dos semestres detrás de mí.
 
-🌱 &nbsp;Voluntario en **Nexis Oaxaca Tech**, ayudando a organizar charlas y eventos. Beca del **100 % en el programa NCEA** de inglés técnico, rumbo a C1/C2.
+📐 &nbsp;**No todo es código.** Tengo **cédula profesional técnica en programación** y formación como **Lead Auditor ISO/IEC 20000**, así que me muevo igual en un repositorio que en la gobernanza de TI. Y estudio inglés técnico con **beca del 100 % en el programa NCEA**, rumbo a C1/C2.
 
-🎯 &nbsp;**Busco oportunidades** en desarrollo de software, cloud o seguridad donde pueda aportar desde el primer día.
+🌱 &nbsp;**Comunidad.** Soy **Core Team Member y organizador en Nexis Oaxaca Tech** desde junio de 2026: ayudo a montar charlas y eventos para que la comunidad tech de Oaxaca crezca. Y comparto en español lo que voy aprendiendo dentro de los programas, para estudiantes de toda Latinoamérica.
+
+🎯 &nbsp;**Qué busco.** Oportunidades en **desarrollo de software, cloud o seguridad** donde pueda aportar desde el primer día, y seguir entrando a programas, becas y eventos que me saquen de la zona cómoda. Si te mueves en ciberseguridad, nube o comunidades tech, escríbeme: siempre estoy para intercambiar ideas y retos técnicos.
 
 📫 &nbsp;Contacto: **jeanpaul.gallegosc@gmail.com**
 
