@@ -46,23 +46,23 @@
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, writing this from Oaxaca, Mexico. I started out wrestling with memory management and low-level logic in **C**, because I believed, and still do, that to build good software you first need to understand what happens underneath. From there I moved on to backends with **Python** and **PHP/Laravel**, and to mobile apps. At some point, writing code that "just works" stopped being enough: **security** and **architecture** are the rest of the job, and they’re what keeps me hooked today.
+I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, writing this from Oaxaca, Mexico. I started from the bottom, wrestling with memory management and low-level logic, because I believed, and still do, that to build good software you first need to understand what happens underneath. From there I moved on to backends and mobile apps. At some point, writing code that "just works" stopped being enough: **security** and **architecture** are the rest of the job, and they’re what keeps me hooked today.
 
 <br/>
 
-🤖 &nbsp;**What I enjoy most is working with AI.** It’s where my imagination runs loose: I use it to study, to code and to automate anything I do twice, and I’ve built on top of an **AI API**. I like how little time an idea takes to exist: build it, break it, keep what worked. That’s the part of this craft I wouldn’t trade.
+🤖 &nbsp;**What I enjoy most is working with AI.** It’s where my imagination runs loose: I use it to study, to code and to automate anything I do twice. I like how little time an idea takes to exist: build it, break it, keep what worked. That’s the part of this craft I wouldn’t trade.
 
-☁️ &nbsp;**A multi-cloud path, genuinely in progress.** Google Cloud is my base, where I earned the **Cybersecurity Certificate** (105 h of hands-on defense and detection labs) and **Cloud Computing Foundations**, with **AWS** and **Azure** on the way. **AI** is the thread tying the rest together: cloud, cybersecurity and a bit of robotics.
+☁️ &nbsp;**My path right now is the cloud, and I mean it.** Google Cloud is my base, with AWS and Azure on the way. **Cybersecurity** is what grabs me the most out of all this, and AI is the thread that ties it together. Robotics has my attention too.
 
-🛠️ &nbsp;**What I’ve built.** A road-alert platform shipped in **24 hours** at a hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), with a web app, a mobile app and a serverless backend on AWS. And, as a co-author, a **business ERP** and a **psychometric test**. I learn by building and breaking things: that’s the part that never feels like homework.
+🛠️ &nbsp;**What I’ve built.** A road-alert platform that shipped in **24 hours** at a hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)). And, as a co-author, a **business ERP** and a **psychometric test**. I learn by building and breaking things: that’s the part that never feels like homework.
 
-🚀 &nbsp;**I’m inside two tech programs.** **Google Student Ambassador ’26**, first cohort in Mexico, and **AWS Student Builder Group Leader**, where I founded the first Student Builder Group at my university. Both are **student, volunteer roles**, and I use them to bring these tools to people who are a semester or two behind me.
+🚀 &nbsp;**I’m inside two tech programs.** **Google Student Ambassador ’26**, first cohort in Mexico, and **AWS Student Builder Group Leader**, where I founded the first Student Builder Group at my university. Both are **student, volunteer roles**, and I use them to bring what I learn to people who are a semester or two behind me.
 
 📐 &nbsp;**Not everything is code.** I hold a **professional technical license in programming** and trained as an **ISO/IEC 20000 Lead Auditor**, so I’m as comfortable in a repository as in IT governance. I’m also studying technical English on a **full NCEA scholarship**, working toward C1/C2.
 
 🌱 &nbsp;**Community.** I’ve been a **Core Team Member and organizer at [Nexis Oaxaca Tech](https://nexisoaxaca.tech/)** since June 2026: I run talks and events, and I lead its scholarship program. I also share what I learn inside these programs in Spanish, for students across Latin America.
 
-🎯 &nbsp;**What I’m looking for.** Opportunities in **software development, cloud or security** where I can contribute from day one, and more programs, scholarships and events that push me out of my comfort zone. If you’re into cybersecurity, cloud or tech communities, reach out: I’m always up for trading ideas and technical challenges.
+🎯 &nbsp;**What I’m looking for.** Opportunities where I can contribute from day one, and more programs, scholarships and events that push me out of my comfort zone. If you’re into cybersecurity, cloud or tech communities, reach out: I’m always up for trading ideas and technical challenges.
 
 📫 &nbsp;Contact: **jeanpaul.gallegosc@gmail.com**
 

@@ -46,23 +46,23 @@
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehuantepec, y escribo esto desde Oaxaca. Empecé peleándome con la gestión de memoria y la lógica de bajo nivel en **C**, porque creía, y sigo creyendo, que para construir buen software primero hay que entender qué pasa por debajo. De ahí salté al backend con **Python** y **PHP/Laravel**, y a las apps móviles. En algún punto, escribir código que «simplemente funcione» dejó de bastarme: la **seguridad** y la **arquitectura** son el resto del trabajo, y son lo que hoy me tiene enganchado.
+Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehuantepec, y escribo esto desde Oaxaca. Empecé por abajo, peleándome con la gestión de memoria y la lógica de bajo nivel, porque creía, y sigo creyendo, que para construir buen software primero hay que entender qué pasa por debajo. De ahí salté al backend y a las apps móviles. En algún punto, escribir código que «simplemente funcione» dejó de bastarme: la **seguridad** y la **arquitectura** son el resto del trabajo, y son lo que hoy me tiene enganchado.
 
 <br/>
 
-🤖 &nbsp;**Lo que más disfruto es trabajar con IA.** Es donde se me dispara la imaginación: la uso para estudiar, para programar y para automatizar todo lo que hago dos veces, y he construido sobre una **API de IA**. Me gusta que una idea tarde poco en existir: probarla, romperla y quedarme con lo que funcionó. Esa es la parte del oficio que no cambio por nada.
+🤖 &nbsp;**Lo que más disfruto es trabajar con IA.** Es donde se me dispara la imaginación: la uso para estudiar, para programar y para automatizar todo lo que hago dos veces. Me gusta que una idea tarde poco en existir: probarla, romperla y quedarme con lo que funcionó. Esa es la parte del oficio que no cambio por nada.
 
-☁️ &nbsp;**Ruta multinube, en curso de verdad.** Google Cloud es mi base, donde hice el **Cybersecurity Certificate** (105 h de laboratorios de defensa y detección) y el de **Cloud Computing Foundations**, con **AWS** y **Azure** en camino. La **IA** es el hilo que une lo demás: cloud, ciberseguridad y algo de robótica.
+☁️ &nbsp;**Mi camino ahora es la nube, y va en serio.** Google Cloud es mi base, con AWS y Azure en camino. La **ciberseguridad** es lo que más me atrapa de todo esto, y la IA es el hilo que lo une: también me pica la robótica.
 
-🛠️ &nbsp;**Lo que he construido.** Una plataforma de alertas viales desplegada en **24 horas** durante un hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), con app web, app móvil y backend serverless sobre AWS. Y como coautor, un **ERP empresarial** y un **test psicométrico**. Aprendo construyendo y rompiendo cosas: es la parte que no se me hace tarea.
+🛠️ &nbsp;**Lo que he construido.** Una plataforma de alertas viales que salió a la calle en **24 horas** durante un hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)). Y, como coautor, un **ERP empresarial** y un **test psicométrico**. Aprendo construyendo y rompiendo cosas: es la parte que no se me hace tarea.
 
-🚀 &nbsp;**Estoy dentro de dos programas tech.** **Google Student Ambassador ’26**, de la 1.ª generación en México, y **AWS Student Builder Group Leader**, donde fundé el primer Student Builder Group de mi universidad. Los dos son roles **estudiantiles y voluntarios**, y los aprovecho para acercar estas herramientas a gente que va uno o dos semestres detrás de mí.
+🚀 &nbsp;**Estoy dentro de dos programas tech.** **Google Student Ambassador ’26**, de la 1.ª generación en México, y **AWS Student Builder Group Leader**, donde fundé el primer Student Builder Group de mi universidad. Los dos son roles **estudiantiles y voluntarios**, y los aprovecho para acercar lo que aprendo a gente que va uno o dos semestres detrás de mí.
 
 📐 &nbsp;**No todo es código.** Tengo **cédula profesional técnica en programación** y formación como **Lead Auditor ISO/IEC 20000**, así que me muevo igual en un repositorio que en la gobernanza de TI. Y estudio inglés técnico con **beca del 100 % en el programa NCEA**, rumbo a C1/C2.
 
 🌱 &nbsp;**Comunidad.** Soy **Core Team Member y organizador en [Nexis Oaxaca Tech](https://nexisoaxaca.tech/)** desde junio de 2026: monto charlas y eventos, y llevo su programa de becas. También comparto en español lo que voy aprendiendo dentro de los programas, para estudiantes de toda Latinoamérica.
 
-🎯 &nbsp;**Qué busco.** Oportunidades en **desarrollo de software, cloud o seguridad** donde pueda aportar desde el primer día, y seguir entrando a programas, becas y eventos que me saquen de la zona cómoda. Si te mueves en ciberseguridad, nube o comunidades tech, escríbeme: siempre estoy para intercambiar ideas y retos técnicos.
+🎯 &nbsp;**Qué busco.** Oportunidades donde pueda aportar desde el primer día, y seguir entrando a programas, becas y eventos que me saquen de la zona cómoda. Si te mueves en ciberseguridad, nube o comunidades tech, escríbeme: siempre estoy para intercambiar ideas y retos técnicos.
 
 📫 &nbsp;Contacto: **jeanpaul.gallegosc@gmail.com**
 
