@@ -46,21 +46,21 @@
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehuantepec, y escribo esto desde Oaxaca. Empecé peleándome con la gestión de memoria y la lógica de bajo nivel en **C**, porque creía —y sigo creyendo— que para construir buen software primero hay que entender qué pasa por debajo. De ahí salté al backend con **Python** y **PHP/Laravel**, y a las apps móviles. En algún punto, escribir código que «simplemente funcione» dejó de bastarme: la **seguridad** y la **arquitectura** son el resto del trabajo, y son lo que hoy me tiene enganchado.
+Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehuantepec, y escribo esto desde Oaxaca. Empecé peleándome con la gestión de memoria y la lógica de bajo nivel en **C**, porque creía, y sigo creyendo, que para construir buen software primero hay que entender qué pasa por debajo. De ahí salté al backend con **Python** y **PHP/Laravel**, y a las apps móviles. En algún punto, escribir código que «simplemente funcione» dejó de bastarme: la **seguridad** y la **arquitectura** son el resto del trabajo, y son lo que hoy me tiene enganchado.
 
 <br/>
 
-🤖 &nbsp;**Lo que más disfruto es trabajar con IA.** Es donde se me dispara la imaginación: la uso para estudiar, para programar y para automatizar lo que hago dos veces, y he construido sobre una **API de IA**. Me gusta que una idea tarde poco en existir —probarla, romperla y quedarme con lo que funcionó—, y esa es la parte del oficio que no cambio por nada.
+🤖 &nbsp;**Lo que más disfruto es trabajar con IA.** Es donde se me dispara la imaginación: la uso para estudiar, para programar y para automatizar todo lo que hago dos veces, y he construido sobre una **API de IA**. Me gusta que una idea tarde poco en existir: probarla, romperla y quedarme con lo que funcionó. Esa es la parte del oficio que no cambio por nada.
 
-☁️ &nbsp;**Ruta multinube, en curso de verdad.** Google Cloud es mi base —ahí hice el **Cybersecurity Certificate** (105 h de laboratorios de defensa y detección) y el de **Cloud Computing Foundations**—, con **AWS** y **Azure** en camino. La **IA** es el hilo que une lo demás: cloud, ciberseguridad y algo de robótica.
+☁️ &nbsp;**Ruta multinube, en curso de verdad.** Google Cloud es mi base, donde hice el **Cybersecurity Certificate** (105 h de laboratorios de defensa y detección) y el de **Cloud Computing Foundations**, con **AWS** y **Azure** en camino. La **IA** es el hilo que une lo demás: cloud, ciberseguridad y algo de robótica.
 
-🛠️ &nbsp;**Lo que he construido.** Una plataforma de alertas viales desplegada en **24 horas** en un hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), una herramienta que **respalda Google Classroom** antes de que se cierre el ciclo, un extractor de transcripciones de YouTube, y como coautor, un **ERP empresarial** y un **test psicométrico**. Aprendo construyendo y rompiendo cosas: es la parte que no se me hace tarea.
+🛠️ &nbsp;**Lo que he construido.** Una plataforma de alertas viales desplegada en **24 horas** durante un hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), con app web, app móvil y backend serverless sobre AWS. Y como coautor, un **ERP empresarial** y un **test psicométrico**. Aprendo construyendo y rompiendo cosas: es la parte que no se me hace tarea.
 
-🚀 &nbsp;**Estoy dentro de dos programas tech.** **Google Student Ambassador ’26** —de la 1.ª generación en México— y **AWS Student Builder Group Leader**, donde fundé el primer Student Builder Group de mi universidad. Los dos son roles **estudiantiles y voluntarios**, y los aprovecho para acercar estas herramientas a gente que está uno o dos semestres detrás de mí.
+🚀 &nbsp;**Estoy dentro de dos programas tech.** **Google Student Ambassador ’26**, de la 1.ª generación en México, y **AWS Student Builder Group Leader**, donde fundé el primer Student Builder Group de mi universidad. Los dos son roles **estudiantiles y voluntarios**, y los aprovecho para acercar estas herramientas a gente que va uno o dos semestres detrás de mí.
 
 📐 &nbsp;**No todo es código.** Tengo **cédula profesional técnica en programación** y formación como **Lead Auditor ISO/IEC 20000**, así que me muevo igual en un repositorio que en la gobernanza de TI. Y estudio inglés técnico con **beca del 100 % en el programa NCEA**, rumbo a C1/C2.
 
-🌱 &nbsp;**Comunidad.** Soy **Core Team Member y organizador en Nexis Oaxaca Tech** desde junio de 2026: ayudo a montar charlas y eventos para que la comunidad tech de Oaxaca crezca. Y comparto en español lo que voy aprendiendo dentro de los programas, para estudiantes de toda Latinoamérica.
+🌱 &nbsp;**Comunidad.** Soy **Core Team Member y organizador en [Nexis Oaxaca Tech](https://nexisoaxaca.tech/)** desde junio de 2026: monto charlas y eventos, y llevo su programa de becas. También comparto en español lo que voy aprendiendo dentro de los programas, para estudiantes de toda Latinoamérica.
 
 🎯 &nbsp;**Qué busco.** Oportunidades en **desarrollo de software, cloud o seguridad** donde pueda aportar desde el primer día, y seguir entrando a programas, becas y eventos que me saquen de la zona cómoda. Si te mueves en ciberseguridad, nube o comunidades tech, escríbeme: siempre estoy para intercambiar ideas y retos técnicos.
 
@@ -118,8 +118,17 @@ Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehu
         <p><img src="https://img.shields.io/badge/Core_Team_%26_Organizador-0d1117?style=flat-square" />&nbsp;
            <img src="https://img.shields.io/badge/Desde_junio_2026-1f6feb?style=flat-square" />&nbsp;
            <img src="https://img.shields.io/badge/Oaxaca-8b949e?style=flat-square" /></p>
-        <p>Organizo charlas y eventos con la comunidad tecnológica de Oaxaca, y llevo su programa de becas.
+        <p>Una <b>iniciativa juvenil</b> que crea espacios y experiencias alrededor de la tecnología en Oaxaca,
+           con una idea de fondo: que cualquiera pueda <b>aprender, conectar y descubrir oportunidades</b>,
+           sin pedir experiencia previa.</p>
+        <p>Montamos charlas y talleres (IA, arquitecturas serverless, desarrollo en la nube), encuentros para
+           que la gente se conozca, y colaboraciones con universidades y empresas. Ahí soy parte del
+           <b>core team</b> y organizador desde junio de 2026, y llevo el <b>programa de becas</b>.
            Es trabajo <b>voluntario</b>.</p>
+        <p>
+          <a href="https://nexisoaxaca.tech/"><img src="https://img.shields.io/badge/nexisoaxaca.tech-2D8380?style=for-the-badge&logoColor=white" /></a>&nbsp;
+          <a href="https://www.instagram.com/nexis.oaxaca"><img src="https://img.shields.io/badge/@nexis.oaxaca-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        </p>
       </td>
     </tr>
   </table>
@@ -263,7 +272,7 @@ Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehu
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" />&nbsp; Proyectos Destacados</h2>
 
-<p align="center"><i>Cada proyecto demuestra una habilidad técnica aplicada a un problema real.</i></p>
+<p align="center"><i>El proyecto en el que más he aprendido, contado por lo que resuelve y por cómo está armado.</i></p>
 
 <br/>
 
@@ -271,7 +280,7 @@ Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehu
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🛣️ Vía Libre Oaxaca — alertas de bloqueos carreteros en tiempo real</h3>
+      <h3 align="center">🛣️ Vía Libre Oaxaca: alertas de bloqueos carreteros en tiempo real</h3>
       <p align="center">
         <i>MVP construido y desplegado en <b>24 horas</b> para el Hackathon IA con Kiro (Código Facilito &amp; AWS, Equipo Istmo).<br/>
         Plataforma comunitaria que avisa de bloqueos en el Istmo de Tehuantepec y recalcula la ruta sobre la marcha.</i>
@@ -321,43 +330,7 @@ Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehu
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Web-classroom</h3>
-      <br/>
-      <p align="center"><i>Herramienta de respaldo para Google Classroom: se lleva las clases, los materiales y las entregas antes de que se cierre el ciclo y deje de verse.</i></p>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Classroom_API-0F9D58?style=flat-square&logo=googleclassroom&logoColor=white" />
-        <img src="https://img.shields.io/badge/Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-        <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-      </p>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/Jean1722343/Web-classroom">
-          <img src="https://img.shields.io/badge/Ver_repositorio-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 playlist_extract</h3>
-      <br/>
-      <p align="center"><i>Extrae la transcripción completa de una playlist entera de YouTube, para poder estudiarla, buscarla o resumirla como texto.</i></p>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automatización-1f6feb?style=flat-square" />
-      </p>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/Jean1722343/playlist_extract">
-          <img src="https://img.shields.io/badge/Ver_repositorio-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
+  
 </table>
 
 <br/>

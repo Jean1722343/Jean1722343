@@ -46,23 +46,23 @@
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, writing this from Oaxaca, Mexico. I started out wrestling with memory management and low-level logic in **C**, because I believed —and still do— that to build good software you first need to understand what happens underneath. From there I moved on to backends with **Python** and **PHP/Laravel**, and to mobile apps. At some point, writing code that "just works" stopped being enough: **security** and **architecture** are the rest of the job, and they’re what keeps me hooked today.
+I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, writing this from Oaxaca, Mexico. I started out wrestling with memory management and low-level logic in **C**, because I believed, and still do, that to build good software you first need to understand what happens underneath. From there I moved on to backends with **Python** and **PHP/Laravel**, and to mobile apps. At some point, writing code that "just works" stopped being enough: **security** and **architecture** are the rest of the job, and they’re what keeps me hooked today.
 
 <br/>
 
-🤖 &nbsp;**What I enjoy most is working with AI.** It’s where my imagination runs loose: I use it to study, to code and to automate anything I do twice, and I’ve built on top of an **AI API**. I like that an idea takes so little time to exist — build it, break it, keep what worked — and that’s the part of this craft I wouldn’t trade.
+🤖 &nbsp;**What I enjoy most is working with AI.** It’s where my imagination runs loose: I use it to study, to code and to automate anything I do twice, and I’ve built on top of an **AI API**. I like how little time an idea takes to exist: build it, break it, keep what worked. That’s the part of this craft I wouldn’t trade.
 
-☁️ &nbsp;**A multi-cloud path, genuinely in progress.** Google Cloud is my base —that’s where I earned the **Cybersecurity Certificate** (105 h of hands-on defense and detection labs) and **Cloud Computing Foundations**— with **AWS** and **Azure** on the way. **AI** is the thread tying the rest together: cloud, cybersecurity and a bit of robotics.
+☁️ &nbsp;**A multi-cloud path, genuinely in progress.** Google Cloud is my base, where I earned the **Cybersecurity Certificate** (105 h of hands-on defense and detection labs) and **Cloud Computing Foundations**, with **AWS** and **Azure** on the way. **AI** is the thread tying the rest together: cloud, cybersecurity and a bit of robotics.
 
-🛠️ &nbsp;**What I’ve built.** A road-alert platform shipped in **24 hours** at a hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), a tool that **backs up Google Classroom** before the term closes, a YouTube transcript extractor, and —as a co-author— a **business ERP** and a **psychometric test**. I learn by building and breaking things: that’s the part that never feels like homework.
+🛠️ &nbsp;**What I’ve built.** A road-alert platform shipped in **24 hours** at a hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), with a web app, a mobile app and a serverless backend on AWS. And, as a co-author, a **business ERP** and a **psychometric test**. I learn by building and breaking things: that’s the part that never feels like homework.
 
-🚀 &nbsp;**I’m inside two tech programs.** **Google Student Ambassador ’26** —first cohort in Mexico— and **AWS Student Builder Group Leader**, where I founded the first Student Builder Group at my university. Both are **student, volunteer roles**, and I use them to bring these tools to people who are a semester or two behind me.
+🚀 &nbsp;**I’m inside two tech programs.** **Google Student Ambassador ’26**, first cohort in Mexico, and **AWS Student Builder Group Leader**, where I founded the first Student Builder Group at my university. Both are **student, volunteer roles**, and I use them to bring these tools to people who are a semester or two behind me.
 
 📐 &nbsp;**Not everything is code.** I hold a **professional technical license in programming** and trained as an **ISO/IEC 20000 Lead Auditor**, so I’m as comfortable in a repository as in IT governance. I’m also studying technical English on a **full NCEA scholarship**, working toward C1/C2.
 
-🌱 &nbsp;**Community.** I’ve been a **Core Team Member and organizer at Nexis Oaxaca Tech** since June 2026, helping run talks and events to grow Oaxaca’s tech scene. And I share what I learn inside these programs in Spanish, for students across Latin America.
+🌱 &nbsp;**Community.** I’ve been a **Core Team Member and organizer at [Nexis Oaxaca Tech](https://nexisoaxaca.tech/)** since June 2026: I run talks and events, and I lead its scholarship program. I also share what I learn inside these programs in Spanish, for students across Latin America.
 
-🎯 &nbsp;**What I’m looking for.** Opportunities in **software development, cloud or security** where I can contribute from day one, and more programs, scholarships and events that push me out of my comfort zone. If you’re into cybersecurity, cloud or tech communities, reach out — I’m always up for trading ideas and technical challenges.
+🎯 &nbsp;**What I’m looking for.** Opportunities in **software development, cloud or security** where I can contribute from day one, and more programs, scholarships and events that push me out of my comfort zone. If you’re into cybersecurity, cloud or tech communities, reach out: I’m always up for trading ideas and technical challenges.
 
 📫 &nbsp;Contact: **jeanpaul.gallegosc@gmail.com**
 
@@ -118,8 +118,16 @@ I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, wri
         <p><img src="https://img.shields.io/badge/Core_Team_%26_Organizer-0d1117?style=flat-square" />&nbsp;
            <img src="https://img.shields.io/badge/Since_June_2026-1f6feb?style=flat-square" />&nbsp;
            <img src="https://img.shields.io/badge/Oaxaca-8b949e?style=flat-square" /></p>
-        <p>I organize talks and events with Oaxaca’s tech community and run its scholarship program.
-           It’s <b>volunteer</b> work.</p>
+        <p>A <b>youth-led initiative</b> building spaces and experiences around technology in Oaxaca, with one
+           idea behind it: that anyone can <b>learn, connect and find opportunities</b>, no previous experience
+           required.</p>
+        <p>We run talks and workshops (AI, serverless architectures, cloud development), community meetups, and
+           collaborations with universities and companies. I’m part of the <b>core team</b> and an organizer
+           since June 2026, and I lead the <b>scholarship program</b>. It’s <b>volunteer</b> work.</p>
+        <p>
+          <a href="https://nexisoaxaca.tech/"><img src="https://img.shields.io/badge/nexisoaxaca.tech-2D8380?style=for-the-badge&logoColor=white" /></a>&nbsp;
+          <a href="https://www.instagram.com/nexis.oaxaca"><img src="https://img.shields.io/badge/@nexis.oaxaca-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        </p>
       </td>
     </tr>
   </table>
@@ -260,7 +268,7 @@ I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, wri
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" />&nbsp; Featured Projects</h2>
 
-<p align="center"><i>Each project demonstrates a technical skill applied to a real problem.</i></p>
+<p align="center"><i>The project I learned the most from, told by what it solves and how it is built.</i></p>
 
 <br/>
 
@@ -268,7 +276,7 @@ I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, wri
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3 align="center">🛣️ Vía Libre Oaxaca — alertas de bloqueos carreteros en tiempo real</h3>
+      <h3 align="center">🛣️ Vía Libre Oaxaca: real-time road-blockage alerts</h3>
       <p align="center">
         <i>MVP built and deployed in <b>24 hours</b> for the Kiro AI Hackathon (Código Facilito &amp; AWS, Equipo Istmo).<br/>
         A community platform that reports road blockages across the Isthmus of Tehuantepec and reroutes you on the fly.</i>
@@ -290,7 +298,7 @@ I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, wri
               <li>Interactive maps with <b>MapLibre GL</b> on OpenStreetMap.</li>
               <li>Service Workers with an <b>offline cache</b>, for low-connectivity areas.</li>
             </ul>
-            <b>📱 App móvil (Flutter)</b>
+            <b>📱 Mobile app (Flutter)</b>
             <ul>
               <li>Background geolocation.</li>
               <li><b>Hands-free spoken alerts</b> while driving, via speech synthesis.</li>
@@ -318,43 +326,7 @@ I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, wri
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Web-classroom</h3>
-      <br/>
-      <p align="center"><i>A backup tool for Google Classroom: it saves your classes, materials and submissions before the term closes and they stop being visible.</i></p>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Classroom_API-0F9D58?style=flat-square&logo=googleclassroom&logoColor=white" />
-        <img src="https://img.shields.io/badge/Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
-        <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-      </p>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/Jean1722343/Web-classroom">
-          <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 playlist_extract</h3>
-      <br/>
-      <p align="center"><i>Extracts the full transcript of an entire YouTube playlist, so you can study, search or summarize it as text.</i></p>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-1f6feb?style=flat-square" />
-      </p>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/Jean1722343/playlist_extract">
-          <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
+  
 </table>
 </div>
 
