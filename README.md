@@ -58,8 +58,6 @@ Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehu
 
 🚀 &nbsp;**Estoy dentro de dos programas tech.** **Google Student Ambassador ’26**, de la 1.ª generación en México, y **AWS Student Builder Group Leader**, donde fundé el primer Student Builder Group de mi universidad. Los dos son roles **estudiantiles y voluntarios**, y los aprovecho para acercar lo que aprendo a gente que va uno o dos semestres detrás de mí.
 
-📐 &nbsp;**No todo es código.** Tengo **cédula profesional técnica en programación** y formación como **Lead Auditor ISO/IEC 20000**, así que me muevo igual en un repositorio que en la gobernanza de TI. Y estudio inglés técnico con **beca del 100 % en el programa NCEA**, rumbo a C1/C2.
-
 🌱 &nbsp;**Comunidad.** Soy **Core Team Member y organizador en [Nexis Oaxaca Tech](https://nexisoaxaca.tech/)** desde junio de 2026: monto charlas y eventos, y llevo su programa de becas. También comparto en español lo que voy aprendiendo dentro de los programas, para estudiantes de toda Latinoamérica.
 
 🎯 &nbsp;**Qué busco.** Oportunidades donde pueda aportar desde el primer día, y seguir entrando a programas, becas y eventos que me saquen de la zona cómoda. Si te mueves en ciberseguridad, nube o comunidades tech, escríbeme: siempre estoy para intercambiar ideas y retos técnicos.

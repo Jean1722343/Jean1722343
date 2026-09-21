@@ -58,8 +58,6 @@ I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, wri
 
 🚀 &nbsp;**I’m inside two tech programs.** **Google Student Ambassador ’26**, first cohort in Mexico, and **AWS Student Builder Group Leader**, where I founded the first Student Builder Group at my university. Both are **student, volunteer roles**, and I use them to bring what I learn to people who are a semester or two behind me.
 
-📐 &nbsp;**Not everything is code.** I hold a **professional technical license in programming** and trained as an **ISO/IEC 20000 Lead Auditor**, so I’m as comfortable in a repository as in IT governance. I’m also studying technical English on a **full NCEA scholarship**, working toward C1/C2.
-
 🌱 &nbsp;**Community.** I’ve been a **Core Team Member and organizer at [Nexis Oaxaca Tech](https://nexisoaxaca.tech/)** since June 2026: I run talks and events, and I lead its scholarship program. I also share what I learn inside these programs in Spanish, for students across Latin America.
 
 🎯 &nbsp;**What I’m looking for.** Opportunities where I can contribute from day one, and more programs, scholarships and events that push me out of my comfort zone. If you’re into cybersecurity, cloud or tech communities, reach out: I’m always up for trading ideas and technical challenges.
