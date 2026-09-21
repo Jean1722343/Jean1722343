@@ -60,7 +60,7 @@ Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehu
 
 🌱 &nbsp;**Comunidad.** Soy **Core Team Member y organizador en [Nexis Oaxaca Tech](https://nexisoaxaca.tech/)** desde junio de 2026: monto charlas y eventos, y llevo su programa de becas. También comparto en español lo que voy aprendiendo dentro de los programas, para estudiantes de toda Latinoamérica.
 
-🎯 &nbsp;**Qué busco.** Oportunidades donde pueda aportar desde el primer día, y seguir entrando a programas, becas y eventos que me saquen de la zona cómoda. Si te mueves en ciberseguridad, nube o comunidades tech, escríbeme: siempre estoy para intercambiar ideas y retos técnicos.
+🎯 &nbsp;**Qué busco.** Oportunidades donde pueda aportar desde el primer día, y seguir entrando a programas, becas y eventos que me saquen de la zona de confort. Si te mueves en ciberseguridad, nube o comunidades tech, escríbeme: siempre estoy para intercambiar ideas y retos técnicos.
 
 📫 &nbsp;Contacto: **jeanpaul.gallegosc@gmail.com**
 
