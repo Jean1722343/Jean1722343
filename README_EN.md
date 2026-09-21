@@ -50,9 +50,11 @@ I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, wri
 
 <br/>
 
+🤖 &nbsp;**What I enjoy most is working with AI.** It’s where my imagination runs loose: I use it to study, to code and to automate anything I do twice, and I’ve built on top of an **AI API**. I like that an idea takes so little time to exist — build it, break it, keep what worked — and that’s the part of this craft I wouldn’t trade.
+
 ☁️ &nbsp;**A multi-cloud path, genuinely in progress.** Google Cloud is my base —that’s where I earned the **Cybersecurity Certificate** (105 h of hands-on defense and detection labs) and **Cloud Computing Foundations**— with **AWS** and **Azure** on the way. **AI** is the thread tying the rest together: cloud, cybersecurity and a bit of robotics.
 
-🛠️ &nbsp;**What I’ve built.** A road-alert platform shipped in **24 hours** at a hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), a tool that **backs up Google Classroom** before the term closes, a YouTube transcript extractor, and —as a co-author— a **business ERP** and a **psychometric test**. Plus a project built on an **AI API**. I learn by building and breaking things: that’s the part that never feels like homework.
+🛠️ &nbsp;**What I’ve built.** A road-alert platform shipped in **24 hours** at a hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), a tool that **backs up Google Classroom** before the term closes, a YouTube transcript extractor, and —as a co-author— a **business ERP** and a **psychometric test**. I learn by building and breaking things: that’s the part that never feels like homework.
 
 🚀 &nbsp;**I’m inside two tech programs.** **Google Student Ambassador ’26** —first cohort in Mexico— and **AWS Student Builder Group Leader**, where I founded the first Student Builder Group at my university. Both are **student, volunteer roles**, and I use them to bring these tools to people who are a semester or two behind me.
 
@@ -109,13 +111,15 @@ I’m a **Computer Engineering** student at **UNISTMO**, Tehuantepec campus, wri
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Community" />
+        <img width="78px" src="./assets/nexis-oaxaca-tech.png" alt="Nexis Oaxaca Tech" />
       </td>
       <td width="78%" valign="middle">
-        <h3>Nexis Oaxaca Tech · volunteer</h3>
-        <p><img src="https://img.shields.io/badge/Tech_community-0d1117?style=flat-square" />&nbsp;
-           <img src="https://img.shields.io/badge/Oaxaca-1f6feb?style=flat-square" /></p>
-        <p>I help organize talks and events to grow Oaxaca’s tech community.</p>
+        <h3>Nexis Oaxaca Tech · core team</h3>
+        <p><img src="https://img.shields.io/badge/Core_Team_%26_Organizer-0d1117?style=flat-square" />&nbsp;
+           <img src="https://img.shields.io/badge/Since_June_2026-1f6feb?style=flat-square" />&nbsp;
+           <img src="https://img.shields.io/badge/Oaxaca-8b949e?style=flat-square" /></p>
+        <p>I organize talks and events with Oaxaca’s tech community and run its scholarship program.
+           It’s <b>volunteer</b> work.</p>
       </td>
     </tr>
   </table>

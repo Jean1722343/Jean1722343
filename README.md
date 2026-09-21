@@ -50,9 +50,11 @@ Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehu
 
 <br/>
 
+🤖 &nbsp;**Lo que más disfruto es trabajar con IA.** Es donde se me dispara la imaginación: la uso para estudiar, para programar y para automatizar lo que hago dos veces, y he construido sobre una **API de IA**. Me gusta que una idea tarde poco en existir —probarla, romperla y quedarme con lo que funcionó—, y esa es la parte del oficio que no cambio por nada.
+
 ☁️ &nbsp;**Ruta multinube, en curso de verdad.** Google Cloud es mi base —ahí hice el **Cybersecurity Certificate** (105 h de laboratorios de defensa y detección) y el de **Cloud Computing Foundations**—, con **AWS** y **Azure** en camino. La **IA** es el hilo que une lo demás: cloud, ciberseguridad y algo de robótica.
 
-🛠️ &nbsp;**Lo que he construido.** Una plataforma de alertas viales desplegada en **24 horas** en un hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), una herramienta que **respalda Google Classroom** antes de que se cierre el ciclo, un extractor de transcripciones de YouTube, y como coautor, un **ERP empresarial** y un **test psicométrico**. También un proyecto sobre una **API de IA**. Aprendo construyendo y rompiendo cosas: es la parte que no se me hace tarea.
+🛠️ &nbsp;**Lo que he construido.** Una plataforma de alertas viales desplegada en **24 horas** en un hackathon ([Vía Libre Oaxaca](https://github.com/Jean1722343/via-libre2)), una herramienta que **respalda Google Classroom** antes de que se cierre el ciclo, un extractor de transcripciones de YouTube, y como coautor, un **ERP empresarial** y un **test psicométrico**. Aprendo construyendo y rompiendo cosas: es la parte que no se me hace tarea.
 
 🚀 &nbsp;**Estoy dentro de dos programas tech.** **Google Student Ambassador ’26** —de la 1.ª generación en México— y **AWS Student Builder Group Leader**, donde fundé el primer Student Builder Group de mi universidad. Los dos son roles **estudiantiles y voluntarios**, y los aprovecho para acercar estas herramientas a gente que está uno o dos semestres detrás de mí.
 
@@ -109,13 +111,15 @@ Soy estudiante de **Ingeniería en Computación** en la **UNISTMO**, campus Tehu
     </tr>
     <tr>
       <td align="center" width="22%" valign="middle">
-        <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Comunidad" />
+        <img width="78px" src="./assets/nexis-oaxaca-tech.png" alt="Nexis Oaxaca Tech" />
       </td>
       <td width="78%" valign="middle">
-        <h3>Nexis Oaxaca Tech · voluntario</h3>
-        <p><img src="https://img.shields.io/badge/Comunidad_tech-0d1117?style=flat-square" />&nbsp;
-           <img src="https://img.shields.io/badge/Oaxaca-1f6feb?style=flat-square" /></p>
-        <p>Ayudo a organizar charlas y eventos para hacer crecer la comunidad tecnológica de Oaxaca.</p>
+        <h3>Nexis Oaxaca Tech · core team</h3>
+        <p><img src="https://img.shields.io/badge/Core_Team_%26_Organizador-0d1117?style=flat-square" />&nbsp;
+           <img src="https://img.shields.io/badge/Desde_junio_2026-1f6feb?style=flat-square" />&nbsp;
+           <img src="https://img.shields.io/badge/Oaxaca-8b949e?style=flat-square" /></p>
+        <p>Organizo charlas y eventos con la comunidad tecnológica de Oaxaca, y llevo su programa de becas.
+           Es trabajo <b>voluntario</b>.</p>
       </td>
     </tr>
   </table>
