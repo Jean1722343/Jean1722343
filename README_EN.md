@@ -10,22 +10,24 @@
 <!-- HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:161b22,100:0d1117&height=230&section=header&text=Jean%20Paul%20Gallegos%20Cruz&fontSize=40&fontColor=ffffff&fontAlignY=33&desc=Backend%20Developer%20·%20Cloud%20Infrastructure%20·%20DevOps&descSize=16&descColor=58a6ff&descAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:161b22,100:0d1117&height=230&section=header&text=Jean%20Paul%20Gallegos%20Cruz&fontSize=40&fontColor=ffffff&fontAlignY=33&desc=Backend%20·%20Cloud%20·%20Cybersecurity%20%7C%20Google%20Student%20Ambassador%20%2726%20%7C%20AWS%20Student%20Builder%20Group%20Leader&descSize=16&descColor=58a6ff&descAlignY=55&animation=fadeIn" />
 </div>
 
 <div align="center">
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=550&lines=Computer+Engineering+%7C+UNISTMO;Python+%C2%B7+PHP+%C2%B7+Laravel+%C2%B7+C+%C2%B7+Dart;Docker+%C2%B7+AWS+%C2%B7+GCP+%C2%B7+Linux;Development+%7C+Infrastructure+%7C+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=550&lines=Computer+Engineering+%7C+UNISTMO;Google+Student+Ambassador+%2726+%C2%B7+1st+cohort+in+Mexico;AWS+Student+Builder+Group+Leader;Python+%C2%B7+PHP+%C2%B7+Laravel+%C2%B7+C+%C2%B7+Dart;Docker+%C2%B7+AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Linux" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Contact badges -->
-  <a href="https://www.linkedin.com/in/jean-paul-gallegos-cruz-063953405/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jeanpaulgc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:jeanpaul.gallegosc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/Jean1722343"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Jean1722343"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/jpgallegosc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://www.tiktok.com/@jpgallegosc"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 
   <br/><br/>
 
@@ -44,19 +46,79 @@
 
 <img align="right" width="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-🎓 &nbsp;**Computer Engineering** student at **UNISTMO** (Universidad del Istmo), Oaxaca, Mexico.
+🎓 &nbsp;**Computer Engineering** student at **UNISTMO** (Universidad del Istmo), Tehuantepec campus, Oaxaca, Mexico.
 
-🛡️ &nbsp;Certified in **Google Cloud Cybersecurity** & **Google Cloud Computing Foundations**.
+🚀 &nbsp;**Google Student Ambassador ’26** (first cohort in Mexico) and **AWS Student Builder Group Leader** — I founded the first Student Builder Group at my university. Both are **student, volunteer roles**.
 
-💻 &nbsp;Comprehensive technical profile: **backend development**, **infrastructure**, **containerization**, and **cloud services**. I work with the complete software lifecycle: from code to production deployment.
+🛡️ &nbsp;I started out wrestling with memory management and low-level logic in **C**, then moved on to backends with **Python** and **PHP/Laravel** and to mobile apps. Writing code that "just works" stopped being enough: security and architecture are the rest of the job.
 
-🔧 &nbsp;Hands-on experience with **Python, PHP/Laravel, C, and Dart** to build software, and **Docker, Bash, GCP, and AWS** to operate it.
+☁️ &nbsp;**Multi-cloud path in progress**: Google Cloud as my base —with the **Google Cloud Cybersecurity Certificate** (105 h) and **Cloud Computing Foundations**— and **AWS and Azure** on the way.
 
-🎯 &nbsp;**Seeking opportunities** in software development or infrastructure where I can deliver value from day one.
+📐 &nbsp;**Professional technical license in programming** and **ISO/IEC 20000 Lead Auditor** training: I’m comfortable both in code and in IT governance.
+
+🌱 &nbsp;Volunteer at **Nexis Oaxaca Tech**, helping organize talks and events. **Full scholarship in the NCEA** technical English program, working toward C1/C2.
+
+🎯 &nbsp;**Seeking opportunities** in software development, cloud or security where I can deliver value from day one.
 
 📫 &nbsp;Contact: **jeanpaul.gallegosc@gmail.com**
 
 <br clear="both"/>
+<br/>
+
+<!-- Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROGRAMS & COMMUNITY -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>🎒&nbsp; Programs &amp; community</h2>
+
+<p><i>Student, volunteer roles. Not jobs and not internships.</i></p>
+
+<div align="center">
+  <table width="92%">
+    <tr>
+      <td align="center" width="22%" valign="middle">
+        <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" />
+      </td>
+      <td width="78%" valign="middle">
+        <h3>Google Student Ambassador ’26</h3>
+        <p><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" />&nbsp;
+           <img src="https://img.shields.io/badge/First_cohort_in_Mexico-1f6feb?style=flat-square" />&nbsp;
+           <img src="https://img.shields.io/badge/Aug–Dec_2026-8b949e?style=flat-square" /></p>
+        <p>National AI leadership program built around <b>Google Gemini</b>: live technical sessions,
+           weekly challenges and conversations with Googlers. I bring what I learn there back to my
+           university and started a <b>Gemini study group</b> on campus.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="22%" valign="middle">
+        <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
+      </td>
+      <td width="78%" valign="middle">
+        <h3>AWS Student Builder Group Leader</h3>
+        <p><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />&nbsp;
+           <img src="https://img.shields.io/badge/Since_Sept._2026-1f6feb?style=flat-square" />&nbsp;
+           <img src="https://img.shields.io/badge/Student_volunteer_role-8b949e?style=flat-square" /></p>
+        <p>I founded the <b>first Student Builder Group at UNISTMO</b>: I run sessions and meetups so
+           more students from the Isthmus get to build on AWS.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="22%" valign="middle">
+        <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Community" />
+      </td>
+      <td width="78%" valign="middle">
+        <h3>Nexis Oaxaca Tech · volunteer</h3>
+        <p><img src="https://img.shields.io/badge/Tech_community-0d1117?style=flat-square" />&nbsp;
+           <img src="https://img.shields.io/badge/Oaxaca-1f6feb?style=flat-square" /></p>
+        <p>I help organize talks and events to grow Oaxaca’s tech community.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br/>
 
 <!-- Separator -->
@@ -144,7 +206,7 @@
 <!-- Visual icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,dart,flutter,php,laravel,gcp,aws,docker,bash,git,github,linux&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,dart,flutter,php,laravel,vue,nuxtjs,tailwind,gcp,aws,docker,terraform,bash,git,github,linux&perline=9&theme=dark" />
   </a>
 </div>
 
@@ -199,36 +261,52 @@
 <div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Project Name 1</h3>
-      <br/>
-      <p align="center"><i>What it does and what problem it solves.</i></p>
-      <br/>
+    <td colspan="2" valign="top">
+      <h3 align="center">🛣️ Vía Libre Oaxaca — alertas de bloqueos carreteros en tiempo real</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+        <i>MVP built and deployed in <b>24 hours</b> for the Kiro AI Hackathon (Código Facilito &amp; AWS, Equipo Istmo).<br/>
+        A community platform that reports road blockages across the Isthmus of Tehuantepec and reroutes you on the fly.</i>
       </p>
-      <br/>
       <p align="center">
-        <a href="https://github.com/Jean1722343/repo">
-          <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/Nuxt_4_·_Vue_3-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚙️ Project Name 2</h3>
-      <br/>
-      <p align="center"><i>What it does and what problem it solves.</i></p>
-      <br/>
+      <table width="100%">
+        <tr>
+          <td width="50%" valign="top">
+            <b>🌐 Web &amp; PWA</b>
+            <ul>
+              <li>Static SPA with <b>Nuxt 4</b>, Vue 3, Nuxt UI 4 and Tailwind CSS v4.</li>
+              <li>Interactive maps with <b>MapLibre GL</b> on OpenStreetMap.</li>
+              <li>Service Workers with an <b>offline cache</b>, for low-connectivity areas.</li>
+            </ul>
+            <b>📱 App móvil (Flutter)</b>
+            <ul>
+              <li>Background geolocation.</li>
+              <li><b>Hands-free spoken alerts</b> while driving, via speech synthesis.</li>
+            </ul>
+          </td>
+          <td width="50%" valign="top">
+            <b>⚡ Serverless backend</b>
+            <ul>
+              <li>REST API on <b>Laravel 13 / PHP 8.3</b> running on <b>AWS Lambda</b> (Bref images).</li>
+              <li>Stateless <b>JWT</b> auth and <b>RBAC</b> access control per role.</li>
+              <li><b>DynamoDB</b> with secondary indexes and <b>TTL</b>: reports expire on their own.</li>
+            </ul>
+            <b>☁️ Infrastructure</b>
+            <ul>
+              <li>Lambda + API Gateway + ECR · S3 + CloudFront · Location Service · SNS · Cognito.</li>
+              <li>All provisioned with modular <b>Terraform</b>, for under 10 USD.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-      </p>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/Jean1722343/repo">
+        <a href="https://github.com/Jean1722343/via-libre2">
           <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -236,33 +314,36 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Project Name 3</h3>
+      <h3 align="center">🎓 Web-classroom</h3>
       <br/>
-      <p align="center"><i>What it does and what problem it solves.</i></p>
+      <p align="center"><i>A backup tool for Google Classroom: it saves your classes, materials and submissions before the term closes and they stop being visible.</i></p>
       <br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Classroom_API-0F9D58?style=flat-square&logo=googleclassroom&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+        <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
       </p>
       <br/>
       <p align="center">
-        <a href="https://github.com/Jean1722343/repo">
+        <a href="https://github.com/Jean1722343/Web-classroom">
           <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔒 Project Name 4</h3>
+      <h3 align="center">📝 playlist_extract</h3>
       <br/>
-      <p align="center"><i>What it does and what problem it solves.</i></p>
+      <p align="center"><i>Extracts the full transcript of an entire YouTube playlist, so you can study, search or summarize it as text.</i></p>
       <br/>
       <p align="center">
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-1f6feb?style=flat-square" />
       </p>
       <br/>
       <p align="center">
-        <a href="https://github.com/Jean1722343/repo">
+        <a href="https://github.com/Jean1722343/playlist_extract">
           <img src="https://img.shields.io/badge/View_repository-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -329,12 +410,20 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/jean-paul-gallegos-cruz-063953405/">
+  <a href="https://www.linkedin.com/in/jeanpaulgc">
     <img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:jeanpaul.gallegosc@gmail.com">
     <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <br/><br/>
+
+  <p><sub>I also share what I learn inside the tech programs:</sub></p>
+
+  <a href="https://www.instagram.com/jpgallegosc"><img src="https://img.shields.io/badge/@jpgallegosc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://www.tiktok.com/@jpgallegosc"><img src="https://img.shields.io/badge/@jpgallegosc-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>&nbsp;
+  <a href="https://www.facebook.com/122108581947447176"><img src="https://img.shields.io/badge/Jean_Paul_Gallegos-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
 
